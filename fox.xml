@@ -3,7 +3,7 @@
     <remote name="fox"
             fetch="https://gitlab.com/OrangeFox" />
     <remote name="fox2"
-            fetch="https://github.com/EmberFox1221" />
+            fetch="https://github.com/EmberFox1221/bootable-recovery.git" />
 
     <remote name="fox-unofficial"
             fetch="https://github.com/OrangeFoxRecovery" />
